@@ -1,0 +1,11 @@
+pyproject.toml
+setup.cfg
+blurbedby_data_api_client/__init__.py
+blurbedby_data_api_client/apiclient.py
+blurbedby_data_api_client/load.py
+blurbedby_data_api_client/test.py
+blurbedby_data_api_client.egg-info/PKG-INFO
+blurbedby_data_api_client.egg-info/SOURCES.txt
+blurbedby_data_api_client.egg-info/dependency_links.txt
+blurbedby_data_api_client.egg-info/requires.txt
+blurbedby_data_api_client.egg-info/top_level.txt
